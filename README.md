@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I'm currently working on<br><br>Analyzing client profiles and building data-driven petition strategies as a Data Specialist at EB1A Experts<br>🤝 I'm looking to collaborate on<br><br>Data analytics, MIS reporting, Power BI dashboard projects, and ML-based healthcare or business intelligence solutions<br>🌱 I'm looking for help with<br><br>Expanding my expertise in LangChain, RAG, Agentic AI, and Databricks for data engineering roles<br>🌿 I'm currently learning<br><br>Generative AI, LLM integration, and cloud-native data engineering on AWS and Azure<br>💬 Ask me about<br><br>SQL, Python, Power BI, ETL workflows, predictive modeling, or building end-to-end ML applications with Flask and Streamlit<br>⚡ Fun fact<br><br>I built a Biomedical Chatbot integrating ChatGPT, BioGPT, and BioBERT — before most people knew what prompt engineering meant!
 
 
